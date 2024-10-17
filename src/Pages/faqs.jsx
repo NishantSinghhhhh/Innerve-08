@@ -9,7 +9,7 @@ import HeadingMain from "../Components/HeadingMain";
 function Faqs() {
   const [generalList, setGeneralList] = useState([
     {
-      question: "What are the highlights of Innerve 8?",
+      question: "What are the highlights of Innerve 9?",
       answer:
         "A 24-hour hackathon with challenging problems, exciting swags and goodies for participants. We also conduct seminars and interactions with industry experts.",
     },
@@ -32,7 +32,7 @@ function Faqs() {
 
   const [stayList, setStayList] = useState([
     {
-      question: "How do I apply for Innerve 8?",
+      question: "How do I apply for Innerve 9",
       answer:
         "Our registration forms are out. Kindly refer to the filling instructions available on the website.",
     },
@@ -47,13 +47,13 @@ function Faqs() {
     {
       question: "What are the dates of Phase 1 & 2?",
       answer:
-        "Idea Pitching: 15th Dec - 15th Jan & 24hrs Hackathon: 9th Feb - 11th Feb",
+        "Idea Pitching: 15th Dec - 15th Jan & 24hrs Hackathon: 8th Feb - 10th Feb",
     },
   ]);
 
   const [travelList, setTravelList] = useState([
     {
-      question: "Where can participants find accommodation during Innerve 8?",
+      question: "Where can participants find accommodation during Innerve 9?",
       answer: "Lodging is available at the AIT Campus itself.",
     },
     {
