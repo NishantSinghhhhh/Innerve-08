@@ -76,7 +76,7 @@ const Sponsor = () => {
     <>
       <div className="h-full py-6" id='sponsors'>
         <div className="flex justify-center w-screen top-16 relative">
-          <Slider text={['Our Sponsors']} />
+          <Slider text={['Our Past Sponsors']} />
         </div>
         <div className="mt-16 -mb-4">
           <HeadingMob name=" Our Past Sponsors" />

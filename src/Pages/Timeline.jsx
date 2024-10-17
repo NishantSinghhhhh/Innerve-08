@@ -138,7 +138,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Registration Starts</div>
-                    <time className="font-caveat font-medium text-gray-400">15 Dec, 2025</time>
+                    <time className="font-caveat font-medium text-gray-400">15 Dec, 2024</time>
                   </div>
                   <div className="text-slate-500">Secure your spot starting December 15, 2024, at 12:00 AM
                     IST. Join us for an exciting 24-hour hackathon by
