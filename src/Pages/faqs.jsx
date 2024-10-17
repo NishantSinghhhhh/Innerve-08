@@ -21,7 +21,7 @@ function Faqs() {
     {
       question: "Who is eligible to participate?",
       answer:
-        "Innerve 8 welcomes participants passionate about coding with keen interest in problem-solving.",
+        "Innerve 9 welcomes participants passionate about coding with keen interest in problem-solving.",
     },
     {
       question: "What kind of prizes can participants expect?",
@@ -75,9 +75,9 @@ function Faqs() {
 
   const [expensesList, setExpensesList] = useState([
     {
-      question: "What expenses does Innerve 8 cover for participants?",
+      question: "What expenses does Innerve 9 cover for participants?",
       answer:
-        "Innerve 8 covers the registration fees for all participants, ensuring a seamless experience for attendees.",
+        "Innerve 9 covers the registration fees for all participants, ensuring a seamless experience for attendees.",
     },
     {
       question: "Are travel-related expenses reimbursable for participants?",
