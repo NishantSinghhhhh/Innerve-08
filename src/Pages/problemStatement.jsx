@@ -16,7 +16,7 @@ import Marquee from "react-fast-marquee";
 import microsoft from "../assets/images/msoft.png";
 import StayTuned from "../assets/images/stayTuned.png";
 import mro from "../assets/images/MRRO.png";
-import accops from "../assets/images/Accops.png"
+import accops from "../assets/images/accops.png"
 
 export default function ProblemStatement() {
   return (
