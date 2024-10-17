@@ -3,7 +3,7 @@ import { motion, useAnimation } from 'framer-motion';
 import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import udchalo from "../assets/images/udchalo.png"
-import accops from "../assets/images/Accops.png"
+import accops from "../assets/images/accops.png"
 import byte from "../assets/images/byte.png"
 import mro from "../assets/images/MRRO.png"
 import Slider from "../Components/slider";
