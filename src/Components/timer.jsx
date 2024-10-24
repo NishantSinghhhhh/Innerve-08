@@ -14,7 +14,7 @@ export default function Timer() {
   }, []);
 
   function getTimeRemaining() {
-    const targetDate = new Date("2025-02-08T00:00:00Z");
+    const targetDate = new Date("2025-02-07T00:00:00Z");
     const currentDate = new Date();
 
     const timeDifference = targetDate - currentDate;
