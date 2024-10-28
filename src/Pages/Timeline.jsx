@@ -73,7 +73,7 @@ const Timeline = () => {
                 Dive deep
               </p>
               <p className="text-sm md:text-base text-gray-300 mb-4 ">
-                Here’s your guide to Innerve 8. Go through all the steps.
+                Here’s your guide to Innerve 9. Go through all the steps.
               </p>
               {/* <a
                 href="#"
@@ -200,7 +200,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Participant Check-in</div>
-                    <time className="font-caveat font-medium text-gray-400">7 Feb, 2025 6:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">6 Feb, 2025 6:00 PM</time>
                   </div>
                   <div className="text-slate-500">Engage in a warm welcome, thorough orientation, and the
                     distribution of essential welcome kits as we kick off
@@ -219,7 +219,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Hackathon Begins</div>
-                    <time className="font-caveat font-medium text-gray-400"> 8 Feb, 2025 10:00 AM</time>
+                    <time className="font-caveat font-medium text-gray-400"> 7 Feb, 2025 10:00 AM</time>
                   </div>
                   <div className="text-slate-500">Get ready to code, innovate, and collaborate! The
                     Hackathon journey begins—ideas soar, projects flourish,
@@ -239,7 +239,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Mentorship Session</div>
-                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 05:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">7 Feb, 2025 05:00 PM</time>
                   </div>
                   <div className="text-slate-500">Get personalized guidance from experienced mentors in
                     a dedicated session.{" "}</div>
@@ -257,7 +257,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Midnight Jam and Energizer</div>
-                    <time className="font-caveat font-medium text-gray-400">9 Feb, 2025 12:00 AM</time>
+                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 12:00 AM</time>
                   </div>
                   <div className="text-slate-500">Fuel your creativity with our Midnight Jam—a lively
                     session featuring energizing activities and music.</div>
@@ -276,7 +276,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Coding hours end</div>
-                    <time className="font-caveat font-medium text-gray-400">9 Feb, 2025 10:00 AM</time>
+                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 10:00 AM</time>
                   </div>
                   <div className="text-slate-500">Wrap up your coding journey, take a breather, and gear
                     up for the project submission phase.</div>
@@ -294,7 +294,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Judging Round</div>
-                    <time className="font-caveat font-medium text-gray-400">9 Feb, 2025 12:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 12:00 PM</time>
                   </div>
                   <div className="text-slate-500">Step into the spotlight as you present your projects in
                     the judging round. Showcase your innovation.</div>
@@ -312,10 +312,9 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Final Presentation</div>
-                    <time className="font-caveat font-medium text-gray-400">9 Feb, 2025 6:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 6:00 PM</time>
                   </div>
-                  <div className="text-slate-500">The moment you've been waiting for is here! Discover the
-                    hackathon winners and celebrate the outstanding
+                  <div className="text-slate-500">Bring your project to life, highlight key features, demonstrate functionality, and showcase the impact of your innovation on the real-world problem you tackled.
                     achievements of participants.</div>
                 </div>
               </div>
@@ -332,7 +331,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Result Declaration</div>
-                    <time className="font-caveat font-medium text-gray-400">9 Feb, 2025 7:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 7:00 PM</time>
                   </div>
                   <div className="text-slate-500">The moment you've been waiting for is here! Discover the
                     hackathon winners and celebrate the outstanding
